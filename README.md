@@ -1,4 +1,5 @@
 # Signalgrid PHP Client
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/signalgridco/signalgrid-php)](https://packagist.org/packages/signalgridco/signalgrid-php)
 
 Official PHP client for the Signalgrid push-notification API.
 
@@ -32,7 +33,6 @@ try {
 }
 ```
 ## Response
-
 ```
 Array
 (
