@@ -33,7 +33,7 @@ try {
 ```
 ## Response
 
-```php
+```
 Array
 (
     [ruuid] => 356b625e6ae18f8f2c5381633bc90028acbb119c
