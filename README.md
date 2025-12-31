@@ -1,6 +1,6 @@
 # Signalgrid PHP Client
 
-Official PHP client for the Signalgrid notification API.
+Official PHP client for the Signalgrid push-notification API.
 
 ## Installation
 
