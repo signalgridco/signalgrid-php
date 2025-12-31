@@ -6,7 +6,7 @@ Official PHP client for the Signalgrid push-notification API.
 ## Installation
 
 ```bash
-composer require signalgrid/signalgrid-php
+composer require signalgridco/signalgrid-php
 ```
 ## Example
 ```php
