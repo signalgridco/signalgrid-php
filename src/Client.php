@@ -11,7 +11,7 @@ class Client
 
     public function __construct(
         string $clientKey,
-        string $endpoint = 'https://api.signalgrid.co'
+        string $endpoint = 'https://api.signalgrid.co/v1/push'
     ) {
         if (empty($clientKey)) {
             throw new Exception('Client key is required');
