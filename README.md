@@ -41,6 +41,5 @@ Array
     [code] => 200
     [node] => dp02
     [time] => 360ms
-    [remaining] => 99919
 )
 ```
